@@ -100,16 +100,21 @@ It is important to be explicitly inclusive of trans women. For example specifyin
 
 #### Five Practical Steps
 Don’t wait until you have a trans employee to do this
+
 1. Be an awesome ally:
   * Listen to the community
   * Amplify trans voices
+  
 2. Implement policies and training:
   * Be explicit in your codes of conduct
   * Have regular and explicit employee training
   * Don’t wait until you mess up to do this
+  
 3. Have inclusive bathrooms - Gender Neutral options
+
 4. Have inclusive benefits
   * E.g. covering medical costs specific to being trans on health insurance
+  
 5. Facilitate Organisational Change
   * Don’t just be all talk and promises you should only talk about what you’ve done and what you’re working on.
   * You should set dates when you plan to do something by and how you’re going to escalate it if you haven’t achieved it by then
